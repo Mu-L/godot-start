@@ -182,4 +182,3 @@ class Dog:
 	func info(_parm = 100):
 		print("height：" + str(height))
 		pass
-

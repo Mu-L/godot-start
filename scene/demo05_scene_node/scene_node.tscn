@@ -4,7 +4,6 @@
 [ext_resource type="Texture2D" uid="uid://dwduwy3y2vipi" path="res://icon.svg" id="1_xf37n"]
 
 [node name="Node2D" type="Node2D"]
-position = Vector2(100, 100)
 
 [node name="Hero" type="Sprite2D" parent="."]
 position = Vector2(400, 200)

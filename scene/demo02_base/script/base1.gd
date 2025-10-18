@@ -51,5 +51,3 @@ func _ready():
 	print("内部类测试--------------------------------")
 	myClass.innerClassTest()
 	pass
-
-
