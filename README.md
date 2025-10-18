@@ -2,7 +2,8 @@
 
 - godot engine utils and sample, example, demo, tutorial, learning, course
 
-- 目前这个项目可以在 godot 4.4 中运行
+- 目前这个项目可以在 godot 4.5 中运行
+- [godot 4.4 分支](https://github.com/zfoo-project/godot-start/tree/godot-4.4)
 - [godot 4.3 分支](https://github.com/zfoo-project/godot-start/tree/godot-4.3)
 - [godot 4.2 分支](https://github.com/zfoo-project/godot-start/tree/godot-4.2)
 - [godot 3.x 分支](https://github.com/zfoo-project/godot-start/tree/godot-3.3-3.5-3.x)
